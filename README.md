@@ -6,29 +6,10 @@ Mar del Plata, Argentina · Open to work
 Graduated in 2026 as *Técnico Universitario en Programación* (Universidad Tecnológica Nacional, UTN). I build REST APIs with Java and Spring Boot and web frontends with Angular. Very advanced English, used daily during three work seasons in the United States.
 
 ## Tech stack
-Languages<br>
-![Java](https://dev.java/)
-![JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-![Python](https://www.python.org/)
-![C](https://en.cppreference.com/w/c)
-
-Backend<br>
-![Spring Boot](https://spring.io/projects/spring-boot)
-![Spring Security](https://spring.io/projects/spring-security)
-![JWT](https://jwt.io/)
-![Hibernate](https://hibernate.org/)
-![Maven](https://maven.apache.org/)
-
-Frontend<br>
-![Angular](https://angular.dev/)
-![HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML)
-![CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
-![Bootstrap](https://getbootstrap.com/)
-
-Databases & tools<br>
-![MySQL](https://www.mysql.com/)
-![Git](https://git-scm.com/)
-![GitHub](https://github.com/santifc11)
+- **Languages:** Java, JavaScript, SQL, C, Python
+- **Backend:** Spring Boot, Spring Security (JWT), Spring Data JPA / Hibernate, Maven
+- **Frontend:** Angular, HTML, CSS, Bootstrap
+- **Databases & tools:** MySQL, Git, GitHub
 
 ## Featured project: AppUnTN
 
